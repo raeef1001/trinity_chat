@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\project\desktopDevelopment\trinityChatServer\trinityChatServer\Source.cpp(101,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\project\desktopDevelopment\trinityChatServer\trinityChatServer\Source.cpp(154,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  trinityChatServer.vcxproj -> F:\project\desktopDevelopment\trinityChatServer\x64\Debug\trinityChatServer.exe

@@ -1,0 +1,11 @@
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\bin\Debug\winformCsharp.exe.config
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\bin\Debug\winformCsharp.exe
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\bin\Debug\winformCsharp.pdb
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.csproj.AssemblyReference.cache
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.csproj.SuggestedBindingRedirects.cache
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.Form1.resources
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.Properties.Resources.resources
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.csproj.GenerateResource.cache
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.csproj.CoreCompileInputs.cache
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.exe
+F:\project\desktopDevelopment\winformCsharp\winformCsharp\obj\Debug\winformCsharp.pdb
